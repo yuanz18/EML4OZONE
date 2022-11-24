@@ -1,6 +1,6 @@
 # EML-for-O3
 
-The EML model to predict ozone(O3)concentration and establish O3-VOC-NOx sensitivity curves.
+The EML model to predict ozone (O3) concentration and establish O3-VOC-NOx sensitivity curves.
 
 ## Code structure
 + `data.py`: main file to process the time-series of dataset. 
